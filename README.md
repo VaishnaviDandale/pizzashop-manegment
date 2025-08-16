@@ -17,7 +17,7 @@ A simple Java console-based Pizza Billing Application.
 ##  Run Locally
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/lovepizza-backend.git
+git clone https://github.com/VaishnaviDandale/lovepizza-backend.git
 cd lovepizza-backend
 
 # Compile & Run
